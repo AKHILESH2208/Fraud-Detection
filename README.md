@@ -1,6 +1,6 @@
-## Fraud Detection Project
+# Fraud Detection Project
 
-# Overview
+## Overview
 
 This project aims to detect fraudulent transactions using different machine learning models, including:
 
@@ -10,7 +10,7 @@ Decision Tree (using scikit-learn)
 
 Neural Network (using TensorFlow and scikit-learn)
 
-# Dataset
+## Dataset
 
 The dataset contains transactional data with various features to distinguish between genuine and fraudulent transactions. It includes:
 
@@ -18,7 +18,7 @@ Features: Transaction amount, user behavior metrics, timestamps, etc.
 
 Labels: 0 (Legitimate) and 1 (Fraudulent)
 
-# Model Implementations
+## Model Implementations
 
 1. Logistic Regression (NumPy + scikit-learn)
 
