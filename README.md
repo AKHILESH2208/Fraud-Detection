@@ -18,6 +18,11 @@ Features: Transaction amount, user behavior metrics, timestamps, etc.
 
 Labels: 0 (Legitimate) and 1 (Fraudulent)
 
+Dataset Link:
+```bash
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+
 ## Model Implementations
 
 1. Logistic Regression (NumPy + scikit-learn)
