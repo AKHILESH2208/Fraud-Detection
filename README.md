@@ -31,3 +31,9 @@ A tree-based model to classify transactions based on feature splits.
 3. Neural Network (TensorFlow + scikit-learn)
 
 A deep learning-based approach using TensorFlow's Keras API for better fraud detection.
+
+## Installation
+Copy and run the following command:
+
+```bash
+pip install numpy pandas sklearn tensorflow
