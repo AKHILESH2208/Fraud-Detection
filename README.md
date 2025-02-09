@@ -36,7 +36,7 @@ A tree-based model to classify transactions based on feature splits.
 
 A deep learning-based approach using TensorFlow's Keras API for better fraud detection.
 
-## Installation
+## Dependency Install
 Copy and run the following command:
 
 ```bash
